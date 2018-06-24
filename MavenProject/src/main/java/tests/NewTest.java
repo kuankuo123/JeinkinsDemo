@@ -29,7 +29,7 @@ public class NewTest {
 	    
 	    ieCapabilities.setCapability(CapabilityType.UNEXPECTED_ALERT_BEHAVIOUR, UnexpectedAlertBehaviour.IGNORE);
 	    
-	    System.out.println("TTTTTTTTTTtt");
+	    System.out.println("eeeeeeee");
 	    driver = new InternetExplorerDriver(ieCapabilities);	  
 	  
 	  
